@@ -1,0 +1,11 @@
+spl-token transfer 9yn1uMMbQzcFiGVTGz19t3QK9zBSfTamzxAGd2mjhuVV 10 ELzY4wkQc2fy7cDC96soLrFpwNU4e8WDsuwUD3GYuknJ --from DMwtUveJtdPPcYyMe4dGQdcayXKgWLe3c1JCAXtpEFvK
+
+spl-token transfer --fund-recipient 9yn1uMMbQzcFiGVTGz19t3QK9zBSfTamzxAGd2mjhuVV 67 2ptvw4xGmag2msPtJwRQa4uW9mKS3VXmAtfw98zyLQXB --allow-unfunded-recipient
+
+// Transfer command for cli
+-  spl-token transfer --fund-recipient DU9as9fLQz23tXfnwa4YYLjdscaYCvnuqKubQAb91wCD 1 64WuhLRJXSwDHVvoY6KiPoRtLhxKMF3pdDEffLP2nYMe --allow-unfunded-recipient
+
+
+ELzY4wkQc2fy7cDC96soLrFpwNU4e8WDsuwUD3GYuknJ
+9vJcCYGhA8hxPtDA1YzuxQDbYHEwM1BT8LsmNfGZLBMt
+619b4ZyxmmDhA52jVUW5R9AkyonjxyFBGFPmFrjoHjYV
